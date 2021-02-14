@@ -5,7 +5,7 @@ using namespace std;
 
 void main()
 {
-	setlocale(LC_ALL, "");
+	setlocale(LC_ALL, "Russian");
 	int n;
 	int i;
 	const int SIZE = 10; // ќбъ€вл€ем массив
